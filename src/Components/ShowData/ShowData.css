@@ -1,0 +1,9 @@
+.custom{
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 5px;
+}
+
+.custom li{
+    background-color: #fff;
+}

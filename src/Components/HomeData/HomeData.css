@@ -1,0 +1,7 @@
+.background-part{
+    background-image: url(../../images/Bg.png);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}

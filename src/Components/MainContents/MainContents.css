@@ -1,0 +1,10 @@
+.custom{
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+.custom img{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
